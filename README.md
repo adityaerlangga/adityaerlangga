@@ -1,7 +1,7 @@
 ### Hi there, I'm Aditya Erlangga Wibowo 👋
 
 <p align="center"><img src="https://www.codewars.com/users/adityaerlangga2003/badges/large"/><br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaerlangga&layout=compact&theme=monokai&langs_count=12"/><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaerlangga&layout=compact&theme=maroongold&langs_count=12"/><br />
 </p>
 
 <!--
