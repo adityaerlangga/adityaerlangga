@@ -1,8 +1,6 @@
 ### Hi there, I'm Aditya Erlangga Wibowo 👋
 
 <p align="center"><img src="https://www.codewars.com/users/adityaerlangga2003/badges/large"/><br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=adityaerlangga&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaerlangga&theme=monokai"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaerlangga&layout=compact&theme=monokai&langs_count=12"/><br />
 </p>
 
