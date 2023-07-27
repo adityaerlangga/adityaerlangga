@@ -10,7 +10,8 @@
 </p>
 
 <p align="center">
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/adityaerlangga?cardType=level&theme=chartreuse-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=chartreuse-dark&preferLogin=false">    <img  alt="adityaerlangga's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/adityaerlangga?cardType=level&theme=chartreuse-dark&preferLogin=false" />
+</a>
 <a href="https://github.com/adityaerlangga">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaerlangga&layout=compact&theme=chartreuse-dark&langs_count=8" />
 </a>
