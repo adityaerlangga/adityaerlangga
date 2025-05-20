@@ -17,3 +17,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaerlangga&layout=compact&theme=chartreuse-dark&langs_count=8" />
 </a>
 </p>
+
+<div align="center">
+  <p>A contributor to:</p>
+  <div> - <a href="https://github.com/adityaputra11/sholat-reminder" target="_blank">Sholat Reminder - VSC Extension</a></div> 
+  <div> - <a href="https://github.com/gogs/gogs" target="_blank">Gogs - Open Source - A self-hosted Git service</a></div>
+</div>
