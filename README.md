@@ -22,5 +22,4 @@
   <p>A contributor to:</p>
   <div> - <a href="https://github.com/adityaputra11/sholat-reminder" target="_blank">Sholat Reminder - VSC Extension</a></div> 
   <div> - <a href="https://github.com/gogs/gogs" target="_blank">Gogs - Open Source - A self-hosted Git service</a></div>
-  <div> - <a href="https://github.com/medusajs/medusa" target="_blank">Medusa - E-Commerce Platform</a></div> 
 </div>
