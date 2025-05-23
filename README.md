@@ -1,13 +1,13 @@
 
 
-<p align="center">
+<!--   <p align="center">
   <a href="https://www.linkedin.com/in/adityaerlanggawibowo/">
     <img src="https://img.shields.io/badge/Aditya%20Erlangga%20Wibowo-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
   </a>
   <a href="mailto:adityaerlangga2003@gmail.com">
     <img src="https://img.shields.io/badge/adityaerlangga2003@gmail.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
   </a>
-</p>
+</p> -->
 
 <p align="center">
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=chartreuse-dark&preferLogin=false">
